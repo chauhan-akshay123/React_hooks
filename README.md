@@ -10,4 +10,4 @@ use ```npm start```
 
 **LIVE**
 
-```https://chauhan-akshay123.github.io/React_hooks/```
+https://chauhan-akshay123.github.io/React_hooks/
